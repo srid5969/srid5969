@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srid5969
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sridhar 
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning springBoot ,NodeJs, Mongodb atlas and realm
+
+- 📫 How to reach me sridharofficialmail@gmail.com
 
 <!---
 srid5969/srid5969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
