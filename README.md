@@ -1,11 +1,8 @@
 
-### Hey, [Sridhar Here](https://www.linkedin.com/in/sridhar-r-b993a71b1) 👋
+### Hi 😃 My name is Sridhar. Sotfware developer at @Gem3s in Chennai. Creating cool stuffs 🤘
+![coding-image](https://github.com/srid5969/srid5969/assets/108978214/be6d363d-517b-4fbc-97f7-73f3b9569466)
 
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Docker ,AI
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Data modeling,Schema design, Backend developer,API
-- 😄 Pronouns: He/Him
+
 
 #
 
@@ -18,3 +15,10 @@
 
 
 <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srid5969&theme=dark&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
+
+
+
+
+Instagram: [https://instagram.com/stit_dont_know_my_name](https://instagram.com/stit_dont_know_my_name)
+Linkedin: [https://www.linkedin.com/in/emilpriver/](https://www.linkedin.com/in/sridhar-backend-developer/)https://www.linkedin.com/in/sridhar-backend-developer/
+Medium: [https://twitter.com/emil_priver](https://medium.com/@sridhar_be)https://medium.com/@sridhar_be
