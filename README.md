@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3D6DFF&background=82FFCC00&random=false&width=435&lines=Hi+There;I'm+Sridhar;Backend+Developer+%40Gem3s+in+Chennai;Creating+cool+stuffs+%F0%9F%A4%98)](https://git.io/typing-svg)
 
-### Hi 😃 My name is Sridhar. Sotfware developer at @Gem3s in Chennai. Creating cool stuffs 🤘
 ![coding-image](https://github.com/srid5969/srid5969/assets/108978214/be6d363d-517b-4fbc-97f7-73f3b9569466)
 
 
