@@ -19,6 +19,6 @@
 
 
 
-Instagram: [https://instagram.com/stit_dont_know_my_name](https://instagram.com/stit_dont_know_my_name)
-Linkedin: [https://www.linkedin.com/in/emilpriver/](https://www.linkedin.com/in/sridhar-backend-developer/)https://www.linkedin.com/in/sridhar-backend-developer/
-Medium: [https://twitter.com/emil_priver](https://medium.com/@sridhar_be)https://medium.com/@sridhar_be
+Instagram: https://instagram.com/stil_dont_know_my_name
+Linkedin: https://www.linkedin.com/in/sridhar-backend-developer/
+Medium: https://medium.com/@sridhar_be
